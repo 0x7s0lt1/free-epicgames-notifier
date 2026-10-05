@@ -2,7 +2,7 @@
 
 # Free Epic Games Notifier
 
-Posts the free games on the Epic Games Store to Telegram.
+Posts the free games from the Epic Games Store to Telegram.
 
 [![Free Games](https://github.com/0x7s0lt1/free-epicgames-notifier/actions/workflows/check-free-games.yaml/badge.svg)](https://github.com/0x7s0lt1/free-epicgames-notifier/actions/workflows/check-free-games.yaml)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@freeEpicGamesAlert-26A5E4?logo=telegram&logoColor=white)](https://t.me/freeEpicGamesAlert)

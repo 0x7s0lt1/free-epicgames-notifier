@@ -31,7 +31,6 @@ class TelegramBot {
         const header = `🎮 ${game.title}\n`;
         const footer = `\nFree until ${game.end.toUTCString()}`;
 
-        // Telegram caps captions at 1024 chars (counted after tags are parsed), keep a small margin
         const budget = CAPTION_LIMIT - 10 - header.length - footer.length;
 
         const caption =
